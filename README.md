@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Gabriel Samilo 👋😁
+- 🌱 I’m currently learning C, Java, Python, etc.
 
 <!--
 **G-Samilo/G-Samilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
